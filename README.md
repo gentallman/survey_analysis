@@ -28,6 +28,28 @@ The primary goal is to leverage insights from this survey to:
 
 **Survey Link** - https://forms.microsoft.com/r/naLCQvrGja
 
+This survey consists of 15 questions, including text, single-choice, multiple-choice, and rating types. Some questions are optional, while others are mandatory to complete the survey.
+
+1. What is your name?  
+2. Which continent do you belong to?  
+3. Are you male or female? *  
+4. What is your age? *  
+5. Do you play games? (If you answer "No," the survey will end here.) *  
+6. Do you buy games? *  
+7. What are your favorite gaming platforms? *  
+8. How many hours do you spend playing video games on an average day? *  
+9. What price per game are you willing to accept? (In Canadian Dollars, 1 CAD = 0.75 USD) *  
+10. What are your favorite game genres? *  
+11. Which video game franchise is your all-time favorite? (Please name one game title.) *  
+12. What is the purpose of your gaming? *  
+13. How would you rate the game series? *  
+14. What features did you particularly like about it?  
+15. What features did you particularly dislike about it?  
+
+**_Questions marked with * are required to answer._**
+
+_Please note that some questions are optional as they may make some respondents feel uncomfortable. There is no obligation to answer these questions. The information collected from the survey will only be used for this study and will not be shared with any external parties._
+
 ### Data Cleaning and Processing
 
 <div align="justify"> 
